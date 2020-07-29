@@ -31,7 +31,7 @@
     position: relative;
 }
 .main-nav-bar-item:hover>a{
-    color: orange;
+    color: #C5A87B;
 }
 .main-nav-bar-item a{
     color: white;
@@ -50,7 +50,7 @@
     font-size: 20px;
 }
 .header-contact-span{
-    color: orange;
+    color: #C5A87B;
 }
 .nav-services-link{
     margin-right: 3px;
@@ -89,5 +89,5 @@
   transform: scaleY(1);
 }
 .nav-services-item:hover>a{
-    color: orange;
+    color: #C5A87B;
 }
