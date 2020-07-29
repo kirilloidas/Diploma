@@ -1,0 +1,32 @@
+.development{
+    background-image: url(../../../assets/img/bg_1.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover;
+    padding: 7% 0;
+}
+.development-title{
+    padding: 0;
+    margin: 0;
+    font: 42px 'Roboto';
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+.development-title::after{
+    content: '';
+    width: 260px;
+    height: 3px;
+    background-color: #C5A87B;
+    position: absolute;
+    top: 80px;
+    left: 41%;
+}
+.development-list{
+    padding: 0;
+    margin-top: 80px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}

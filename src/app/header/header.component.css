@@ -1,7 +1,10 @@
 .header{
-    background: url(../../assets/img/header_menu_bg_1.jpg);
+    /* background: url(../../assets/img/header_menu_bg_1.jpg); */
     background-position: center top;
     background-repeat: no-repeat;
+    position: absolute;
+    /* position: fixed; */
+    left: 140px;
 }
 .container{
     display: flex;
